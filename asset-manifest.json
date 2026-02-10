@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/rehab-tracker/static/js/main.65cd2fbf.js",
+    "main.js": "/rehab-tracker/static/js/main.c0c3d796.js",
     "index.html": "/rehab-tracker/index.html",
-    "main.65cd2fbf.js.map": "/rehab-tracker/static/js/main.65cd2fbf.js.map"
+    "main.c0c3d796.js.map": "/rehab-tracker/static/js/main.c0c3d796.js.map"
   },
   "entrypoints": [
-    "static/js/main.65cd2fbf.js"
+    "static/js/main.c0c3d796.js"
   ]
 }
